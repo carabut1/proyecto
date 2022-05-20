@@ -15,7 +15,7 @@ import javax.persistence.Table;
 @Entity
 @Table(name = "menu")
 public class Menu {
-
+//comentario nuevo
 	@Id
 	private Integer idMenu;
 

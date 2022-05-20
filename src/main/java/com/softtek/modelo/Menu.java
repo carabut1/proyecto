@@ -16,6 +16,7 @@ import javax.persistence.Table;
 @Table(name = "menu")
 public class Menu {
 //comentario nuevo
+	// Ultimo comentario
 	@Id
 	private Integer idMenu;
 

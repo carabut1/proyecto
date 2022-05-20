@@ -11,6 +11,7 @@ import javax.persistence.JoinTable;
 import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 
+//Este es un comentario en menu
 @Entity
 @Table(name = "menu")
 public class Menu {
